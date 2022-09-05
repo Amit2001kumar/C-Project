@@ -1,0 +1,8 @@
+C:\Users\Amit Rai\source\repos\calculate\calculate\obj\Debug\calculate.csproj.AssemblyReference.cache
+C:\Users\Amit Rai\source\repos\calculate\calculate\obj\Debug\calculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amit Rai\source\repos\calculate\calculate\obj\Debug\calculate.csproj.CoreCompileInputs.cache
+C:\Users\Amit Rai\source\repos\calculate\calculate\bin\Debug\calculate.exe.config
+C:\Users\Amit Rai\source\repos\calculate\calculate\bin\Debug\calculate.exe
+C:\Users\Amit Rai\source\repos\calculate\calculate\bin\Debug\calculate.pdb
+C:\Users\Amit Rai\source\repos\calculate\calculate\obj\Debug\calculate.exe
+C:\Users\Amit Rai\source\repos\calculate\calculate\obj\Debug\calculate.pdb

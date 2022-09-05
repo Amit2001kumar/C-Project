@@ -1,0 +1,65 @@
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\WebAppApi.exe
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\WebAppApi.deps.json
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\WebAppApi.runtimeconfig.json
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\WebAppApi.runtimeconfig.dev.json
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\WebAppApi.dll
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\WebAppApi.pdb
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.AssemblyInfo.cs
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\staticwebassets\WebAppApi.StaticWebAssets.Manifest.cache
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\staticwebassets\WebAppApi.StaticWebAssets.xml
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAppApi.styles.css
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.RazorTargetAssemblyInfo.cache
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.csproj.CopyComplete
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.dll
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.pdb
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.genruntimeconfig.cache
+C:\Users\PC\source\repos\API\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.csproj.AssemblyReference.cache
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\WebAppApi.exe
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\WebAppApi.deps.json
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\WebAppApi.runtimeconfig.json
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\WebAppApi.runtimeconfig.dev.json
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\WebAppApi.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\WebAppApi.pdb
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.csproj.AssemblyReference.cache
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.AssemblyInfoInputs.cache
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.AssemblyInfo.cs
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.csproj.CoreCompileInputs.cache
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\staticwebassets\WebAppApi.StaticWebAssets.Manifest.cache
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\staticwebassets\WebAppApi.StaticWebAssets.xml
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAppApi.styles.css
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.RazorTargetAssemblyInfo.cache
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.csproj.CopyComplete
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.pdb
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\obj\Debug\netcoreapp3.1\WebAppApi.genruntimeconfig.cache
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Interop.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Amit Rai\source\repos\API\API\WebAppApi\WebAppApi\WebAppApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll

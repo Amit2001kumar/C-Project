@@ -1,0 +1,8 @@
+C:\Users\Amit Rai\source\repos\Switch Week Day\Switch Week Day\bin\Debug\Switch Week Day.exe.config
+C:\Users\Amit Rai\source\repos\Switch Week Day\Switch Week Day\bin\Debug\Switch Week Day.exe
+C:\Users\Amit Rai\source\repos\Switch Week Day\Switch Week Day\bin\Debug\Switch Week Day.pdb
+C:\Users\Amit Rai\source\repos\Switch Week Day\Switch Week Day\obj\Debug\Switch Week Day.csproj.AssemblyReference.cache
+C:\Users\Amit Rai\source\repos\Switch Week Day\Switch Week Day\obj\Debug\Switch Week Day.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amit Rai\source\repos\Switch Week Day\Switch Week Day\obj\Debug\Switch Week Day.csproj.CoreCompileInputs.cache
+C:\Users\Amit Rai\source\repos\Switch Week Day\Switch Week Day\obj\Debug\Switch Week Day.exe
+C:\Users\Amit Rai\source\repos\Switch Week Day\Switch Week Day\obj\Debug\Switch Week Day.pdb

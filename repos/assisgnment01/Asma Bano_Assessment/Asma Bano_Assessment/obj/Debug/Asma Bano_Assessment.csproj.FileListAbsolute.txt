@@ -1,0 +1,37 @@
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\obj\Debug\Asma Bano_Assessment.csproj.AssemblyReference.cache
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\obj\Debug\Asma Bano_Assessment.csproj.SuggestedBindingRedirects.cache
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\obj\Debug\Asma Bano_Assessment.csproj.CoreCompileInputs.cache
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\Asma Bano_Assessment.exe.config
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\Asma Bano_Assessment.exe
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\Asma Bano_Assessment.pdb
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\Npgsql.dll
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Buffers.dll
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Collections.Immutable.dll
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Memory.dll
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Numerics.Vectors.dll
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Text.Encodings.Web.dll
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Text.Json.dll
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Threading.Channels.dll
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.ValueTuple.dll
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\Npgsql.xml
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Buffers.xml
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Collections.Immutable.xml
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Memory.xml
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Numerics.Vectors.xml
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Text.Encodings.Web.xml
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Text.Json.xml
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Threading.Channels.xml
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\bin\Debug\System.ValueTuple.xml
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\obj\Debug\Asma Bano_Assessment.csproj.CopyComplete
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\obj\Debug\Asma Bano_Assessment.exe
+C:\ASMA_BANO(.NET training) C#\Asma Bano_Assessment\Asma Bano_Assessment\obj\Debug\Asma Bano_Assessment.pdb

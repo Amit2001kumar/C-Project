@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evev odd value", "evev odd value\evev odd value.csproj", "{1850B20E-2591-420C-82AA-46155E53FD7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1850B20E-2591-420C-82AA-46155E53FD7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1850B20E-2591-420C-82AA-46155E53FD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1850B20E-2591-420C-82AA-46155E53FD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1850B20E-2591-420C-82AA-46155E53FD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33AB2A10-355A-497C-B8D8-F4E53B72FDF6}
+	EndGlobalSection
+EndGlobal

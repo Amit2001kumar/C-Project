@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "DN3S89ZEkQoZ5+qZN19ONTeM/mBOlsGCGBd9/TQyqQAR1Q8TmJk25vj4B6e78kTIrZCuMZFEN0s51O8tInIQTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amit Rai\\source\\repos\\API\\API\\WebAppApi\\WebAppApi\\WebAppApi\\WebAppApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\mailkit\\3.2.0\\mailkit.3.2.0.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\microsoft.visualstudio.interop\\17.3.32804.24\\microsoft.visualstudio.interop.17.3.32804.24.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\17.3.32804.24\\microsoft.visualstudio.ole.interop.17.3.32804.24.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\mimekit\\3.4.0\\mimekit.3.4.0.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\netcore.mailkit\\2.1.0\\netcore.mailkit.2.1.0.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\npgsql\\6.0.6\\npgsql.6.0.6.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.0\\system.security.cryptography.pkcs.6.0.0.nupkg.sha512",
+    "C:\\Users\\Amit Rai\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
